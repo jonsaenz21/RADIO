@@ -215,6 +215,8 @@
 | 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](http://www.90fm.es/) | [logo](https://graph.facebook.com/90FMmalaga/picture?width=200&height=200) | - | - |
 | Radio Chipiona | [stream](http://srv01.redsanmarcos.com:8021/stream) | [web](http://www.chipionatv.com/) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | WICE |
 | Onda Sur Motril | [stream](http://radio.telemotril.com:8000/live) | [web](https://telemotril.com/onda-sur-107-7fm/) | [logo](https://telemotril.com/wp-content/uploads/2016/11/escucha-ondasur.png) | - | WICE |
+| Onda Sur Motril | [stream](http://radio.telemotril.com:8000/live) | [web](https://telemotril.com/onda-sur-107-7fm/) | [logo](https://telemotril.com/wp-content/uploads/2016/11/escucha-ondasur.png) | - | WICE |
+|Cadena 100 Vegas Altas | [mp3](https://eu1.lhdserver.es:8017/stream?1592337445957) | [web](http://cadena100vegasaltas.com/) | [logo](https://aerc.es/wp-media/uploads/2015/12/cadena-100-logo.jpg) | - | - |
 
 ### Aragón
 
@@ -407,6 +409,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| Cadena 100 Barcelona | [m3u8](https://cadena100bcn-cope.flumotion.com/chunks.m3u8) | [web](https://www.cadena100.es/emisoras/barcelona) | [logo](https://pbs.twimg.com/profile_images/1054673516405182470/bBK1Q_mG_400x400.jpg) | - | - |
 | Catalunya Informació | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-informacio/) | [logo](https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png) | - | - |
 | Cat Música | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catmusica/) | [logo](https://graph.facebook.com/catmusica/picture?width=200&height=200) | - | - |
 | iCat | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:icatfm/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe/icat/) | [logo](https://pbs.twimg.com/profile_images/901098808314081280/lN5lymcl_200x200.jpg) | - | - |
