@@ -97,7 +97,8 @@
 | Radio Nacional Andalucía | [mp3](https://rneand.rtveradio.cires21.com/rneand.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Andalucía | [mp3](https://radio5and.rtveradio.cires21.com/radio5and.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | Radio Marca Almería | [mp3](http://212.83.164.82:8012/rmarcaalm.mp3) | [web](https://www.radiomarcaalmeria.com/radio-en-directo/) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
-| LOS 40 Almeria | [mp3](http://212.83.164.82:8001/40almeria.mp3) | [web](http://www.seralmeria.com/onlineradio/40almeria.php) | [logo](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/317093_413870818688834_1909522899_n.jpg?_nc_cat=104&_nc_sid=174925&_nc_ohc=L7PwfZSU6FEAX9M5I3B&_nc_ht=scontent-cdg2-1.xx&oh=ed2795eeba2a6fb928ce6be67093e8fc&oe=5F13A3B4) | - | - || Radio Marca Sevilla | [mp3](https://relay.stream.enacast-cloud.com:40219/radiomarcasevillaHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
+| LOS 40 Almeria | [mp3](http://212.83.164.82:8001/40almeria.mp3) | [web](http://www.seralmeria.com/onlineradio/40almeria.php) | [logo](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/317093_413870818688834_1909522899_n.jpg?_nc_cat=104&_nc_sid=174925&_nc_ohc=L7PwfZSU6FEAX9M5I3B&_nc_ht=scontent-cdg2-1.xx&oh=ed2795eeba2a6fb928ce6be67093e8fc&oe=5F13A3B4) | - | - |
+| Radio Marca Sevilla | [mp3](https://relay.stream.enacast-cloud.com:40219/radiomarcasevillaHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | Radio Marca Málaga | [stream](https://malagafm.streaming-pro.com:8131/malagafmmobile) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | SER Almería | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMERIA.mp3) | [web](https://play.cadenaser.com/emisora/ser_almeria/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Andalucía Centro | [stream](http://5.83.75.146:8000/serestepa) | [web](https://play.cadenaser.com/emisora/ser_andalucia_centro) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
@@ -215,7 +216,6 @@
 | 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](http://www.90fm.es/) | [logo](https://graph.facebook.com/90FMmalaga/picture?width=200&height=200) | - | - |
 | Radio Chipiona | [stream](http://srv01.redsanmarcos.com:8021/stream) | [web](http://www.chipionatv.com/) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | WICE |
 | Onda Sur Motril | [stream](http://radio.telemotril.com:8000/live) | [web](https://telemotril.com/onda-sur-107-7fm/) | [logo](https://telemotril.com/wp-content/uploads/2016/11/escucha-ondasur.png) | - | WICE |
-
 ### Aragón
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
