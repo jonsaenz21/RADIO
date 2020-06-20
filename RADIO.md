@@ -35,7 +35,7 @@
 | Melodía FM | [m3u8](https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8) | [web](https://www.melodia-fm.com/directo/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=200&height=200) | - | - |
 | Loca FM | [stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
 | Radio Clásica RNE | [mp3](https://radioclasica.rtveradio.cires21.com/radioclasica_hc.mp3) | [web](https://www.rtve.es/alacarta/live_radio_PopUp.shtml) | [logo](https://graph.facebook.com/radioclasicartve/picture?width=200&height=200) | - | - |
-| Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | - | - |
+| Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) [#youtube](https://www.youtube.com/user/radiomariaSPA/live) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | - | - |
 
 ## Musicales
 
@@ -98,6 +98,7 @@
 | Radio 5 Andalucía | [mp3](https://radio5and.rtveradio.cires21.com/radio5and.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | Radio Marca Almería | [mp3](http://212.83.164.82:8012/rmarcaalm.mp3) | [web](https://www.radiomarcaalmeria.com/radio-en-directo/) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | LOS 40 Almeria | [mp3](http://212.83.164.82:8001/40almeria.mp3) | [web](http://www.seralmeria.com/onlineradio/40almeria.php) | [logo](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/317093_413870818688834_1909522899_n.jpg?_nc_cat=104&_nc_sid=174925&_nc_ohc=L7PwfZSU6FEAX9M5I3B&_nc_ht=scontent-cdg2-1.xx&oh=ed2795eeba2a6fb928ce6be67093e8fc&oe=5F13A3B4) | - | - |
+
 | Radio Marca Sevilla | [mp3](https://relay.stream.enacast-cloud.com:40219/radiomarcasevillaHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | Radio Marca Málaga | [stream](https://malagafm.streaming-pro.com:8131/malagafmmobile) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | SER Almería | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMERIA.mp3) | [web](https://play.cadenaser.com/emisora/ser_almeria/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
@@ -106,6 +107,7 @@
 | SER Antequera | [stream](http://185.23.192.33:8000/serantequera) | [web](https://play.cadenaser.com/emisora/ser_antequera) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Comarca | [stream](https://eu1.lhdserver.es:8075/stream) | [web](https://play.cadenaser.com/emisora/ser_comarca) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Costa de la Luz | [stream](http://cervera.eldialdigital.com:8036/stream) | [web](https://play.cadenaser.com/emisora/ser_costa_de_la_luz) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
+| LOS 40 COSTA DE LA LUZ | [stream](http://5.135.183.124:8326/stream) | [web](http://www.los40costadelaluz.com/) | [logo](https://scontent-cdg2-1.xx.fbcdn.net/v/l/t1.0-9/80352525_2621195094780274_6982762163458801664_n.jpg?_nc_cat=102&_nc_sid=85a577&_nc_ohc=Qs675Sd8TpAAX_vhR3c&_nc_ht=scontent-cdg2-1.xx&oh=52b487e9fabf26c75e60c908defce44f&oe=5F14F96A) | - | - |
 | SER La Janda | [stream](http://5.135.183.124:8352/stream) | [web](https://play.cadenaser.com/emisora/ser_la_janda/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Lucena | [stream](http://185.23.192.33:8000/lucena) | [web](https://play.cadenaser.com/emisora/ser_lucena) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Málaga | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3) | [web](https://play.cadenaser.com/emisora/ser_malaga) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
@@ -122,6 +124,7 @@
 | SER - Radio Córdoba | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CORDOBA.mp3) | [web](https://play.cadenaser.com/emisora/radio_cordoba) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER - Radio Granada | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GRANADA.mp3) | [web](https://play.cadenaser.com/emisora/radio_granada) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER - Radio Guadix | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIX.mp3) | [web](https://play.cadenaser.com/emisora/radio_guadix) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
+|LOS 40 GUADIX  | [mp3](https://19073.live.streamtheworld.com/LOS40_ASO_GUADIX_SC) | [web] | [logo](https://cdn.webrad.io/images/logos/emisora-org-es/40-principales-guadix.png) | - | - |
 | SER - Radio Huelva | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HUELVA.mp3) | [web](https://play.cadenaser.com/emisora/radio_huelva) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER - Radio Jaén | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JAEN.mp3) | [web](https://play.cadenaser.com/emisora/radio_jaen) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER - Radio Jerez | [stream](http://streaming6.elitecomunicacion.es:8642/;) | [web](https://play.cadenaser.com/emisora/radio_jerez) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
