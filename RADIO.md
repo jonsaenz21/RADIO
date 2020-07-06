@@ -408,6 +408,7 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Cadena 100 Barcelona | [m3u8](https://cadena100bcn-cope.flumotion.com/chunks.m3u8) | [web](https://www.cadena100.es/emisoras/barcelona) | [logo](https://pbs.twimg.com/profile_images/1054673516405182470/bBK1Q_mG_400x400.jpg) | - | - |
+| Radio Barça| [m3u8](https://open.http.mp.streamamg.com/p/3000707/sp/300070700/playManifest/entryId/0_dej0sx5j/format/applehttp/protocol/https/uiConfId/30024000/a.m3u8) | [web](https://open.http.mp.streamamg.com/html5/html5lib/v2.55/mwEmbedFrame.php/p/3000707/uiconf_id/30025311/entry_id/0_dej0sx5j?wid=_3000707&iframeembed=true&playerId=player_0_dej0sx5j&entry_id=0_dej0sx5j&flashvars[streamerType]=auto) | [logo](https://pbs.twimg.com/profile_images/1218254354878210050/5e5Ji5t3_400x400.jpg) | - | - |
 | Catalunya Informació | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-informacio/) | [logo](https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png) | - | - |
 | Cat Música | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catmusica/) | [logo](https://graph.facebook.com/catmusica/picture?width=200&height=200) | - | - |
 | iCat | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:icatfm/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe/icat/) | [logo](https://pbs.twimg.com/profile_images/901098808314081280/lN5lymcl_200x200.jpg) | - | - |
