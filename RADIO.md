@@ -8,6 +8,7 @@
 | COPE | [mp3 # 1](https://flucast-m04-06.flumotion.com/cope/net1.mp3) - [mp3 # 2](https://flucast-m04-06.flumotion.com/cope/net2.mp3) | [web # 1](https://www.cope.es/directos/net1) - [web # 2](https://www.cope.es/directos/net2) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | 13Tv Radio | [m3u8](https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5024/024/playlist.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://lh5.googleusercontent.com/proxy/D4wBdgqyO9wYiZRqJ73sWWN3QAWPyvqvkjsAXQgFBtOVz_xmC9oxg01NJqzssN0z9jXx8HmnOurjfH9yOT55oefHXSb0rFfKs1TzbpShgVqw3z7NUYaqFEbrFjL65A) | - | - |
 | Onda Cero | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) | [web](https://www.ondacero.es/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
+| LA 1 RTVE | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/la1aud_lv3_aosv4_gl0/la1aud_lv3_aosv4_gl0.isml/la1aud_lv3_aosv4_gl0-audio_spa=128000.m3u8) | [web](https://www.rtve.es/estatificados/tour-2020/la1/la1.shtml?autoplay=true) | [logo](https://img2.rtve.es/css/alacarta20/i/iconos/cadenas/audio_la1.jpg) | - | - |
 | Radio Nacional | [mp3](https://rne.rtveradio.cires21.com/rne_hc.mp3) | [web](https://www.rtve.es/alacarta/live_radio_PopUp.shtml) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | esRadio | [aac](https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac) - [mp3](https://livestreaming3.esradio.fm/stream64.mp3) | [web](https://esradio.libertaddigital.com/directo.html) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | Radio 5 RNE | [mp3](https://radio5.rtveradio.cires21.com/radio5_hc.mp3) | [web](https://www.rtve.es/alacarta/live_radio_PopUp.shtml) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
@@ -87,7 +88,7 @@
 | - | - | - | - | - | - |
 | Sevilla FC Radio | [m3u8](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8) | [web](https://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | - | - |
 | Real Betis Radio | - | [web](https://www.realbetisbalompie.es/rtvbetis/directo-radio) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | - | W3U |
-
+| Teledeporte RTVE | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/tdpaud_lv3_aosv4_gl0/tdpaud_lv3_aosv4_gl0.isml/tdpaud_lv3_aosv4_gl0.m3u8) | [web](https://www.rtve.es/estatificados/tour-2020/tdp/tdp.shtml?autoplay=true) | [logo](https://img2.rtve.es/css/alacarta20/i/iconos/cadenas/audio_tdp.jpg) | - | - |
 ## Autonómicas
 
 ### Andalucía
