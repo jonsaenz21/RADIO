@@ -760,6 +760,9 @@
 | COPE Rioja | [mp3](https://wecast-b01-01.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Logroño | [m3u8](https://livefastly-webs.ondacero.es/logrono-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/rioja/rioja/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
+| EUROPA FM RIOJA BAJA | [mp3](https://server10.emitironline.com:8202/stream?1600020952423) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://mediosriojanos.com/wp-content/uploads/2017/04/europafm.png) | - | - |
+| ONDA CERO RIOJA BAJA | [mp3](https://server10.emitironline.com:8200/stream?1600021070942) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://mediosriojanos.com/wp-content/uploads/2017/04/ondacero.png) | - | - |
+| MELODIA FM RIOJA BAJA | [mp3](https://server10.emitironline.com:8204/stream?1600021240942) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://mediosriojanos.com/wp-content/uploads/2017/04/melodiafm.png) | - | - |
 
 ### Melilla
 
