@@ -558,7 +558,7 @@
 | COPE Pamplona | [mp3](https://wecast-m01-03.flumotion.com/copesedes/pamplona.mp3) | [web](https://www.cope.es/directos/pamplona) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | CADENA 100 ESTELLA | [mp3](http://server9.emitironline.com:9373/radio) | [web](http://radioestella.com/) | [logo](http://radioestella.com/images/cadena100.png) | - | - |
 | COPE ESTELLA | [mp3](http://server1.emitironline.com:9866/radio) | [web](http://radioestella.com/) | [logo](http://radioestella.com/images/cope.png) | - | - |
-| Rock FM ESTELLA | [mp3](https://server9.emitironline.com:19512/radio?1594387128218) | [web](http://radioestella.com/) | [logo](http://radioestella.com/images/rockfm.png) | - | - |
+| ESTELLA-LIZARRA FM | [mp3](http://server9.emitironline.com:19512/radio?1601737352363) | [web](http://radioestella.com/) | [logo](http://radioestella.com/images/estellafm.png) | - | - |
 | COPE Tudela | [mp3](https://wecast-m01-03.flumotion.com/copesedes/tudela.mp3) | [web](https://www.cope.es/directos/tudela) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Pamplona | [m3u8](https://livefastly-webs.ondacero.es/pamplona-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/navarra/pamplona/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
