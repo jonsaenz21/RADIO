@@ -812,7 +812,9 @@
 | Mozoilo Irratia | [mp3](http://195.154.33.95:8042/mozoiloi.mp3) | [web](http://www.gdkoirratia.com/PLAY/) | [logo](https://graph.facebook.com/GaldakaokoIrratia/picture?width=200&height=200) | - | - |
 | Radio 7 | [mp3](https://radio7.streaming-pro.com:6146/radio7.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200) | - | - |
 | Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com/) | [logo](https://graph.facebook.com/radioformulahit/picture?width=200&height=200) | - | - |
-
+| Onda Vasca Bizkaia | [mp3](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | [logo](https://www.ondavasca.com/wp-content/themes/OndaVasca/img/logos/OndaVasca.png) | - | - |
+| Onda Vasca Gipuzkoa | [mp3](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | [logo](https://www.ondavasca.com/wp-content/themes/OndaVasca/img/logos/OndaVasca.png) | - | - |
+| Radio Popular | [mp3](https://nerbioi.radiopopular.eus/radiopopular2) | [web](https://radiopopular.com/) | [logo](http://radiopopular.com/wp-content/uploads/2017/01/logoradiopopwebfondobl.png) | - | - |
 ### P. de Asturias
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
