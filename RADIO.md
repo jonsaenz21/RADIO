@@ -877,3 +877,4 @@
 | - | - | - | - | - | - |
 | Radio Exterior | [mp3](https://radioexterior.rtveradio.cires21.com/radioexterior_hc.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](https://graph.facebook.com/RadioExterior/picture?width=200&height=200) | - | - |
 | Verano Radio | [stream](http://192.111.140.6:8086/stream) | [web](https://www.casinosverano.com/veranoradio) | [logo](http://cdn.onlineradiobox.com/img/logo/1/59041.v3.png) | - | - |
+|  CADENA 100 GIBRALTAR  | [aac](https://stream.zenolive.com/dpbtnae5bzzuv.aac) - [mp3](https://stream.zenolive.com/dpbtnae5bzzuv.mp3) | [web](https://www.copecampodegibraltar.com/) | [logo](https://static.wixstatic.com/media/92acbf_e0de5cc4a3984222997daf6ec0ad8fdc~mv2.png/v1/fill/w_35,h_30,al_c,q_85,usm_0.66_1.00_0.01/681px-Cadena100_svg.webp) | - | - |
