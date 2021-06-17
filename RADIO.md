@@ -80,7 +80,7 @@
 | Babyradio - Nanas | [stream](http://sd396babyradio1.lcinternet.com:8004/live) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | WICE |
 | Babyradio - Cuentos infantiles | [stream](http://sd396babyradio1.lcinternet.com:8008/live) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | WICE |
 | Dial Babyradio | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_04.mp3) | [web](https://play.cadenadial.com/emisora/dial_babyradio) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
-| Dial Mini | [mp3](http://22593.live.streamtheworld.com/CADENADIAL_04.mp3) | [web](https://play.cadenadial.com/emisora/dial_mini/) | [logo](https://www.cadenadial.com/wp-content/uploads/2020/07/516x516_BR.png) | - | - |
+| Dial Mini |-| [web](https://play.cadenadial.com/emisora/dial_mini/) | [logo](https://www.cadenadial.com/wp-content/uploads/2020/07/516x516_BR.png) | - | - |
 ## Deportivas
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
