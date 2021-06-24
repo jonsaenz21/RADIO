@@ -751,17 +751,20 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Radio Nacional La Rioja | [mp3](https://rnerio.rtveradio.cires21.com/rnerio.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
-| Radio 5 La Rioja | [mp3](https://radio5rio.rtveradio.cires21.com/radio5rio.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
-| SER - Radio Arnedo | [mp3](http://streaming2.formulaclick.com:8094/radioarnedo.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
-| SER - Radio Rioja | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RIOJA.mp3) | [web](https://play.cadenaser.com/emisora/radio_rioja/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
-| COPE Logroño | [mp3](https://wecast-m01-03.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Rioja | [mp3](https://wecast-b01-01.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| Radio Nacional La Rioja | [stream](https://crtve-rne1-rio.cast.addradio.de/crtve/rne1/rio/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
+| Radio 5 La Rioja | [stream](https://crtve-rne5-rio.cast.addradio.de/crtve/rne5/rio/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
+| SER Arnedo | [mp3](http://server8.emitironline.com:18324/) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
+| SER Rioja | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RIOJA.mp3) | [web](https://play.cadenaser.com/emisora/radio_rioja/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
+| COPE Logroño | [mp3](https://wecast-b01-02.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Logroño | [m3u8](https://livefastly-webs.ondacero.es/logrono-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/rioja/rioja/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
+| Onda Cero Rioja | [m3u8](https://server10.emitironline.com:8200/stream) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
+| Europa FM Rioja | [stream](https://server10.emitironline.com:8202/stream) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
+| Melodía FM Rioja | [stream](https://server10.emitironline.com:8204/stream) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=200&height=200) | - | - |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
-| EUROPA FM RIOJA BAJA | [mp3](https://server10.emitironline.com:8202/stream?1600020952423) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://mediosriojanos.com/wp-content/uploads/2017/04/europafm.png) | - | - |
-| ONDA CERO RIOJA BAJA | [mp3](https://server10.emitironline.com:8200/stream?1600021070942) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://mediosriojanos.com/wp-content/uploads/2017/04/ondacero.png) | - | - |
-| MELODIA FM RIOJA BAJA | [mp3](https://server10.emitironline.com:8204/stream?1600021240942) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://mediosriojanos.com/wp-content/uploads/2017/04/melodiafm.png) | - | - |
+| Onda Ocio | [stream](https://radioserver10.profesionalhosting.com:23334/stream) | [web](https://www.ondaocio.es/) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | WICE |
+| Onda Fuenmayor | [mp3](http://109.169.76.153:8749/;.mp3) | [web](http://www.ondafuenmayor.com/) | [logo](https://4.bp.blogspot.com/-SEiOZH7JEi0/VhPnj-jC0aI/AAAAAAAAACo/gN3SGFY6iwM/s200/logo%2BONDA%2BFUENMAYOR%2Boriginal.jpg) | - | - |
+
+### Melilla
 
 ### Melilla
 
