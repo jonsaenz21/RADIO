@@ -36,6 +36,8 @@
 | Loca FM | [mp3](https://locafm-live1.flumotion.com/locafm/live1.mp3) | [web](http://www.locafm.com/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Radio Clásica RNE | [stream](https://crtve-rnerc-main.cast.addradio.de/crtve/rnerc/main/mp3/high) | [web](https://www.rtve.es/alacarta/live_radio_PopUp.shtml) | [logo](https://graph.facebook.com/radioclasicartve/picture?width=200&height=200) | - | - |
 | Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | - | - |
+| LA 1 RTVE | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/la1aud_lv3_aosv4_gl0/la1aud_lv3_aosv4_gl0.isml/la1aud_lv3_aosv4_gl0.m3u8) | [web](https://secure-embed.rtve.es/estatificados/tour-2021/la1/la1.shtml?autoplay=true) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | - | - |
+| TDP RTVE | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/tdpaud_lv3_aosv4_gl0/tdpaud_lv3_aosv4_gl0.isml/tdpaud_lv3_aosv4_gl0.m3u8) | [web](https://secure-embed.rtve.es/estatificados/tour-2021/tdp/tdp.shtml?autoplay=true) | [logo](https://scontent-mad1-1.xx.fbcdn.net/v/t1.18169-1/c12.12.156.156a/993305_477864865641247_64548139_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0c64ff&_nc_ohc=eQMNhmwFrZQAX80BGw5&_nc_ht=scontent-mad1-1.xx&tp=29&oh=d1725b9d948490857d938bcab2ee4a02&oe=60E2900A) | - | - |
 
 ## Musicales
 
